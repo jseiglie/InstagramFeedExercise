@@ -1,0 +1,55 @@
+body {
+    background-color: palegoldenrod;
+}
+
+.header {
+    text-align: center;
+    
+}
+
+.card {
+    background-color: honeydew;
+}
+
+.cardHeader {
+    padding-bottom: 1.5em;
+}
+
+.feedTittle {
+    float: left;
+    font-weight: bolder;
+    margin-left: 1em;
+    font-size: 14pt;
+    margin-bottom: 0.2em;
+    
+}
+
+.feedDate {
+    float: right;
+    color: gray;
+    margin-right: 1em;
+}
+.card {
+    width: 40%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.cardImgHolder {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.cardImg {
+    width: 100%;
+    height: 100%;
+}
+
+.cardBody {
+    margin-bottom: 1.5em;
+    border-bottom: 1px solid black;
+    padding-bottom: 1em;
+    
+    
+}
+
